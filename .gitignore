@@ -7,7 +7,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-.DS_Stores
+.DS_Store
 
 # generate output
 dist
