@@ -1,0 +1,12 @@
+.App {
+  position: relative;
+}
+
+.App .container {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.App .container h2 {
+  text-align: center;
+}
